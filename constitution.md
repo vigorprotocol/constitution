@@ -37,19 +37,19 @@ e) Delegated Mutability: The VIGOR protocol should only be upgradable through th
 
 3.3. Candidates can withdraw anytime from the VIGOR DAC and this action will be permanently recorded on the blockchain. Candidates that withdraw can unstake immediately.
 
-3.4. Candidates can be removed by DAC proposal from the VIGOR DAC and this action will be permanently recorded on the blockchain. Candidates that are removed cannot unstake until after the stake lockup period which is configurable by DAC proposal. Removed candidates will not be able to join again before 6 calendar months.
+3.4. Candidates can be removed by DAC proposal from the VIGOR DAC and this action will be permanently recorded on the blockchain. Candidates that are removed cannot unstake until after the stake lockup period which is configurable by DAC proposal. Removed Candidates will not be able to join again before 6 calendar months.
 
 ## 4. CUSTODIANS
 
 4.1. Custodians for the next period are elected by vote of the current Custodian Board, amongst the existing pool of registered Candidates, a configurable number of Candidates receiving the highest number of votes being appointed to serve as Custodian. The Candidates so elected constitute the Custodian Board. In the event of a tie, priority will be alphabetical by account name.
 
-4.2. Each Custodian is entitled to cast a certain number of votes (a configure number by DAC proposal) to elect the Custodian Board for the next period. Each voter is limited to casting one vote per recipient.
+4.2. Each Custodian is entitled to cast a certain number of votes (a configurable number by DAC proposal) to elect the Custodian Board for the next period. Each voter is limited to casting one vote per recipient.
 
 4.3. Each Custodian is entitled to issue a Proposal on any topic to the Custodian Board, including involving expenditure of fiat or crypto holdings of any kind, as long as such Proposal is compatible with the VIGOR DAC Core Principles and overall with this Constitution.
 
 4.4. Each Custodian is entitled to sign the approval of any given Proposal. Each proposal requiring a minimum threshold of required approvals before execution.
 
-4.5. By DAC propsal, Custodians can change all configurations in the DAC.
+4.5. By DAC proposal, Custodians can change all configurations in the DAC.
 
 4.6. Votes to elect Custodians are tallied once per period. The period length is configurable by DAC proposal. Each Custodian shall therefore hold office for the term of one period, commencing whenever anyone successfully calls the newperiod action on the DAC contract which is callable at a frequency of at most once per period without any required permissions.
 
@@ -67,7 +67,7 @@ e) Delegated Mutability: The VIGOR protocol should only be upgradable through th
 
 5.1. The operations and affairs of VIGOR DAC, including but not limited to the governance and administration of its assets and liabilities, shall be vested, determined and managed by and through the Custodian Board, as constituted from time to time, which shall hold and exercise all such powers pursuant to and in accordance with this Constitution and its Core Principles, and for the purposes aforesaid, the Custodian Board may do all acts, matters and things, and execute all contracts, instruments, deeds or other document, whatsoever and wheresoever, for and on behalf of the VIGOR DAC.
 
-5.2. The Custodian Board may, with or without reason, remove another Custodian or Candidate through proposal. Candidates or Custodians removed in this way will be permanently barred from joining again the VIGOR DAC.
+5.2. The Custodian Board may, with or without reason, remove another Custodian or Candidate through proposal.
 
 ## 6. LEGAL REPRESENTATION
 
