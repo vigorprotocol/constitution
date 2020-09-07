@@ -33,11 +33,11 @@ e) Delegated Mutability: The VIGOR protocol should only be upgradable through th
 
 3.1. Candidates are Members that intend to be eligible to become Custodians.
 
-3.2. For a Member to register as a Candidate, they must stake an amount of VIG tokens, the staking amount is configurable by DAC proposal, candidacy allowing them to receive votes from Custodians.
+3.2. For a Member to register as a Candidate, they must stake an amount of VIG tokens, the staking amount is configurable by DAC proposal, candidacy allowing them to receive votes from Custodians and if garnish enough votes can themselves cast votes to elect Custodians.
 
-3.3. Candidates can withdraw anytime from the VIGOR DAC and this action will be permanently recorded on the blockchain. Candidates that withdraw can unstake immediately.
+3.3. Candidates can anytime withdraw from their candidacy and be able to unstake the VIG amount ex 3.2 above. This action will be permanently recorded on the blockchain.
 
-3.4. Candidates can be removed by DAC proposal from the VIGOR DAC and this action will be permanently recorded on the blockchain. Candidates that are removed cannot unstake until after the stake lockup period which is configurable by DAC proposal. Removed Candidates will not be able to join again before 6 calendar months.
+3.4. Candidates can be forcefully removed by the Custodian Board with or without reason and this action will be permanently recorded on the blockchain. Candidates that are removed cannot unstake the VIG ex 3.2 above until after a certain stake lockup period is passed. The Custodian Board can set stake lockup period. Candidates removed in this way will still remain valid Members but will not be able to stake again to become a Candidate for the following 6 calendar months.
 
 ## 4. CUSTODIANS
 
@@ -45,15 +45,15 @@ e) Delegated Mutability: The VIGOR protocol should only be upgradable through th
 
 4.2. Each Custodian is entitled to cast a certain number of votes (a configurable number by DAC proposal) to elect the Custodian Board for the next period. Each voter is limited to casting one vote per recipient.
 
-4.3. Each Custodian is entitled to issue a Proposal on any topic to the Custodian Board, including involving expenditure of fiat or crypto holdings of any kind, as long as such Proposal is compatible with the VIGOR DAC Core Principles and overall with this Constitution.
+4.3. The Custodian Board takes any decision only and exclusively through a software function called a "Proposal". Each Custodian is entitled to issue a Proposal on any topic to the Custodian Board, including involving expenditure of fiat or crypto holdings of any kind, removing Candidates or Custodians, changing the smart contracte and so on without any limitation, as long as such Proposal is compatible with the VIGOR DAC Core Principles and overall with this Constitution.
 
 4.4. Each Custodian is entitled to sign the approval of any given Proposal. Each proposal requiring a minimum threshold of required approvals before execution.
 
-4.5. By DAC proposal, Custodians can change all configurations in the DAC.
+4.5. The Custodian Board can change any and all software configurations of the DAC, as long as they do not impact or change in any way what is stated within this Constitution.
 
-4.6. Votes to elect Custodians are tallied once per period. The period length is configurable by DAC proposal. Each Custodian shall therefore hold office for the term of one period, commencing whenever anyone successfully calls the newperiod action on the DAC contract which is callable at a frequency of at most once per period without any required permissions.
+4.6. Votes to elect Custodians are tallied once per period. The period length is configurable by the Custodian Board. Each Custodian shall therefore hold office for the term of one period, commencing whenever anyone successfully calls the "newperiod action" on the DAC smart contract which is callable, or executable, at a frequency of at most once per period without any required permissions.
 
-4.7. Any Emoluments or other compensation for Custodians is allowed and will be established only by DAC proposal. Emoluments must be proportioned to the actual work and responsibility of each Custodian and must be consistent with the existing cash flow derived from the VIGOR DAC Source of Income as stated in article 7 below.
+4.7. Any participation reward or other compensation for Custodians is allowed and will be established only by the Custodian Board. Participation rewards must be proportional to the actual work and responsibility of each Custodian and as decided by the Custodian Board and must be consistent with the existing cash flow derived from the VIGOR DAC Source of Income as stated in article 7 below.
 
 4.8. Custodians who die, resign, or are removed by DAC proposal immediately terminate their office, but any vote already cast by that Custodian in that period, prior to such termination, will still be valid.
 
@@ -95,7 +95,7 @@ e) Delegated Mutability: The VIGOR protocol should only be upgradable through th
 
 ## 8. AMENDMENTS
 
-8.1. Any amendments to this Constitution requires DAC proposal. The hash of the amended Constitution will have to be uploaded to the blockchain and all existing Members, Candidates and Custodians will have to digitally sign it again or be automatically removed from the VIGOR DAC within seven solar days from the upload.
+8.1. Any amendments to this Constitution require a successful decision by the Custodian Board. The hash of the amended Constitution will have to be re-uploaded to the blockchain and all existing Members, Candidates and Custodians will have to digitally sign it again or be automatically removed from the VIGOR DAC within seven solar days from the upload.
 
 ## 9. VOLUNTARY DISSOLUTION
 
