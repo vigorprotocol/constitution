@@ -45,7 +45,7 @@ e) Delegated Mutability: The VIGOR protocol should only be upgradable through th
 
 4.2. Each Custodian is entitled to cast a certain number of votes (a configurable number by DAC proposal) to elect the Custodian Board for the next period. Each voter is limited to casting one vote per recipient.
 
-4.3. The Custodian Board takes any decision only and exclusively through a software function called a "Proposal". Each Custodian is entitled to issue a Proposal on any topic to the Custodian Board, including involving expenditure of fiat or crypto holdings of any kind, removing Candidates or Custodians, changing the smart contracte and so on without any limitation, as long as such Proposal is compatible with the VIGOR DAC Core Principles and overall with this Constitution.
+4.3. The Custodian Board takes any decision only and exclusively through a software function called a "Proposal". Each Custodian is entitled to issue a Proposal on any topic to the Custodian Board, including involving expenditure of fiat or crypto holdings of any kind, removing Candidates or Custodians, changing the smart contract and so on without any limitation, as long as such Proposal is compatible with the VIGOR DAC Core Principles and overall with this Constitution.
 
 4.4. Each Custodian is entitled to sign the approval of any given Proposal. Each proposal requiring a minimum threshold of required approvals before execution.
 
